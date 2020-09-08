@@ -1,0 +1,4 @@
+watermark
+tensorflow
+numpy
+pandas
