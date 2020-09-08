@@ -3,3 +3,4 @@ tensorflow
 numpy
 pandas
 l5kit
+pyyaml>=5.1
