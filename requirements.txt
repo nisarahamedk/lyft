@@ -2,3 +2,4 @@ watermark
 tensorflow
 numpy
 pandas
+l5kit
